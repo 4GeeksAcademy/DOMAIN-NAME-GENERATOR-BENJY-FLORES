@@ -23,4 +23,7 @@ window.onload = function() {
       }
     }
   }
+
+  // Print the generated domain names
+  console.log(domainNames);
 };
